@@ -1,4 +1,4 @@
-Claro! Vamos criar um **README.md** para o seu repositório de **IA Generativa com Azure AI**. Aqui está um exemplo básico de como você pode estruturar o seu arquivo README:
+Repositório de **IA Generativa com Azure AI**
 
 ```markdown
 # IA Generativa com Azure AI
