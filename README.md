@@ -1,4 +1,4 @@
-# Repositório em construção
+# # Repositório em construção 🚧🏗️🚧
 
 ## Repositório de **IA Generativa com Azure AI**
 
