@@ -1,4 +1,6 @@
-Repositório de **IA Generativa com Azure AI**
+# Repositório em construção
+
+## Repositório de **IA Generativa com Azure AI**
 
 ```markdown
 # IA Generativa com Azure AI
